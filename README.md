@@ -42,7 +42,7 @@ Not applicable
 
 ### [ 2 ] Test Scenario
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/ychcnm/IRS-MR-2019-01-19-ISY5001-IND-YeChanghe-Paternity_Test_System/blob/master/UserGuide/Test%20Scenario.docx>
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
