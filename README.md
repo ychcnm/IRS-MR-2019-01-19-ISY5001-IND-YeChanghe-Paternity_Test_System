@@ -1,6 +1,6 @@
 ## SECTION 1 : PROJECT TITLE
 ## Paternity Test System
-<img src="MISCELLANEOUS/clips/static/hdb-bto.png"
+<img src="UserGuide/front.png"
      style="float: left; margin-right: 0px;" />
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
